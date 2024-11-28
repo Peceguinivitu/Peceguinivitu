@@ -1,7 +1,7 @@
 ## Sejam bem-vindos👋☕
 
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhanguera
+- 💻 Apaixonado por resolver problemas através da programação
 - 🔭 Em busca de uma oportunidade de emprego
-- 🌱 Analise e desenvolvimento de sistemas, além de linguagens de programação
-- 📫 vitorgomesepeceguini0@gmail.com
-- 😄 Pronouns: ele/dele
-  
+- 🌱 Explorando o desenvolvimento de sistemas e tecnologias emergentes
+
