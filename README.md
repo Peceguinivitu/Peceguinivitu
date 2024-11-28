@@ -1,6 +1,8 @@
 Olá meu nome é Vitor!
 
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Anhanguera 
+
+
 Apaixonado por resolver problemas através da programação, meu fascínio pela tecnologia começou no meu primeiro contato com dispositivos eletrônicos. Lembro-me de olhar para aquela pequena tela, intrigada com cada detalhe, e me questionei: Como isso é feito? Para um jovem com acesso limitado a esse universo, essa curiosidade se transformou em determinação. Hoje, a programação é minha maneira de criar soluções, explorar possibilidades e transformar ideias em realidade * 
 
 * 🌍 Estou baseado no Brasil 
