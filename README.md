@@ -2,6 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5B006&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Vitor+Gomes+Peceguini;I+study+analysis+and+systems+development+at+Anhanguera;Be+Welcome!+:%29☕)](https://git.io/typing-svg) 
 
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Peceguinivitu&show_icons=true&count_private=true&hide_border=true&title_color=F5B006&icon_color=F5B006&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Gomes Peceguini github stats" /> 
   
