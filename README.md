@@ -18,7 +18,6 @@
  ### Main Skills:
 <p>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/java/java-original-wordmark.svg" width="30" style="display:inline-block;" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" width="30" style="display:inline-block;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/csharp/csharp-original.svg" width="30" style="display:inline-block;" />
 </p>
 
